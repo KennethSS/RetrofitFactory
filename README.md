@@ -32,6 +32,7 @@ dependencies {
 ## Usage
 ### Basic Example
 
+#### Add to NetworkConfig in app
 ```kotlin
 class App : Application() {
     override fun onCreate() {
