@@ -2,6 +2,7 @@ package com.solar.retrofit.service
 
 import com.solar.retrofit.response.GetUserResponse
 import retrofit2.http.GET
+import retrofit2.http.Header
 import retrofit2.http.Query
 
 interface UserService {
