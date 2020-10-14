@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">SolarRetrofit</string>
+
+    <!-- Exception -->
+    <string name="exception_http_error_400">올바르지 못한 요청입니다.</string>
+    <string name="exception_http_error_401">인증을 위한 권한이 필요합니다</string>
+    <string name="exception_http_error_403">서버에서 요청이 거부되었습니다.</string>
+    <string name="exception_http_error_404">요청한 URL을 찾을 수 업습니다.</string>
+
+    <string name="exception_http_error_500">서버에 오류가 발생하여 응답 할 수 없습니다.</string>
+    <string name="exception_http_error_503">현재 서버를 일시적으로 사용 할 수 없습니다.</string>
+    <string name="exception_http_error_504">응답 지연이 발생하여 처리가 불가능합니다.</string>
+
+    <string name="exception_http_error_basic">서버에서 에러가 발생했습니다. 잠시 후 다시 시도해 주세요</string>
+    <string name="exception_error_basic">에러가 발생했습니다.</string>
 </resources>
